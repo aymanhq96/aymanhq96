@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Ingeniería Electrónica Industrial en la Universidad de Málaga  
 🛠️ Técnico Superior en Sistemas de Telecomunicaciones e Informáticos  
-📍 España |
+📍 Málaga | España
 
 ---
 
