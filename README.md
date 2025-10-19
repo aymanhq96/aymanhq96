@@ -17,9 +17,36 @@ Soy una persona apasionada por la tecnología y la ingeniería aplicada. A lo la
 - 📐 Diseño técnico con **AutoCAD** (nivel avanzado)
 - 🧠 Modelado y simulación con **Simulink** y programación de PLC's con **TwinCAT**
 
-Además, tengo más de 6 años de experiencia en el sector de la seguridad, donde he trabajado en soporte técnico, resolución de incidencias y trato directo con clientes, desarrollando habilidades en trabajo bajo presión, comunicación efectiva y compromiso profesional.
+Además, tengo más de 6 años de experiencia en el sector de la seguridad en una CRA, donde actualmente desempeño tareas de gestión de equipos, supervisión de turno, soporte técnico, resolución de incidencias y trato directo con clientes, desarrollando habilidades en trabajo bajo presión, comunicación efectiva, compromiso profesional y cumplimiento de los KPI's.
 
 ---
+## 🛠️ Proyectos relevantes
+Vehículo Autónomo Evita-Paredes
+•	Desarrollo de software en C++ para control de sensores ultrasónicos y motores DC.
+•	Implementación de algoritmos PID para maniobras autónomas de evasión de obstáculos.
+•	Integración de encoders, señales PWM y sistemas embebidos, optimizando la precisión y la eficiencia del movimiento.
+Laboratorio de Electrónica de Potencia
+•	Diseño y simulación de convertidores DC-DC combinando PSIM y prototipos hardware.
+•	Análisis de eficiencia energética y control de potencia mediante señales PWM.
+Sistemas Digitales Avanzados
+•	Diseño de lógica digital, incluyendo flip-flops, codificadores/decodificadores y máquinas de estados finitos (FSM).
+•	Programación en C para sistemas embebidos y control de circuitos digitales.
+Instrumentación Electrónica
+•	Medición, calibración y análisis de señales utilizando osciloscopio y multímetro.
+•	Procesamiento de datos experimentales para validación y optimización de circuitos electrónicos.
+Informática Industrial y PLC (TwinCAT)
+•	Programación y configuración de PLC para control de procesos industriales básicos.
+•	Integración de señales de entrada/salida y validación funcional de sistemas automatizados.
+
+- Automatización IT  
+- Sistemas embebidos  
+- Electrónica aplicada  
+- Domótica  
+- Diseño técnico con AutoCAD
+- Instrumentación electrónica
+- Informática industrial
+- Electrónica de Potencia  
+
 
 ## 📚 Actualmente
 
@@ -29,7 +56,10 @@ Además, tengo más de 6 años de experiencia en el sector de la seguridad, dond
 - Sistemas embebidos  
 - Electrónica aplicada  
 - Domótica  
-- Diseño técnico con AutoCAD  
+- Diseño técnico con AutoCAD
+- Instrumentación electrónica
+- Informática industrial
+- Electrónica de Potencia  
 
 También sigo mejorando mis habilidades en programación y herramientas de ingeniería.
 
@@ -51,7 +81,7 @@ También sigo mejorando mis habilidades en programación y herramientas de ingen
 ## 📫 Contacto
 
 - 📧 harraz.ayman@gmail.com  
-- 💼 www.linkedin.com/in/ayman-h-b4790715a
+- 💼 www.linkedin.com/in/ayman-h-q
 
 
 ---
