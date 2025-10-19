@@ -22,7 +22,7 @@ Además, tengo más de 6 años de experiencia en el sector de la seguridad en un
 ---
 ## 🛠️ Proyectos relevantes
 
-### Control de Acceso utilizando ESP32 y RFID usando módulo RDM6300 [Linkedin Post]([https://docs.github.com](https://www.linkedin.com/posts/ayman-h-q_python-esp32-rfid-activity-7365683248439476225-IULr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY4wacBnHF8CWSPbw8vk7NhhipzcEhA_FI))
+### Control de Acceso utilizando ESP32 y RFID usando módulo RDM6300 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post-blue)](https://www.linkedin.com/posts/ayman-h-q_python-esp32-rfid-activity-7365683248439476225-IULr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY4wacBnHF8CWSPbw8vk7NhhipzcEhA_FI)
 
 
 - Leer tags RFID
