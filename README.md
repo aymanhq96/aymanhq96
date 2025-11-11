@@ -22,6 +22,15 @@ Además, tengo más de 6 años de experiencia en el sector de la seguridad en un
 ---
 ## 🛠️ Proyectos relevantes
 
+### Control de posición usando controlador PID
+-Uso de interrupciones para lectura precisa del encoder
+-Control de motor mediante puente H (L298N) con señal PWM
+-Implementación modular con funciones C/C++
+-Aplicación de PID para alcanzar una posición deseada
+-Implementación de una rampa de referencia para movimientos suaves
+-Inclusión de banda muerta para evitar osscilaciones en la posición final
+-Monitor serie para visualización de referencia, posición, error y señal de control (PWM)
+
 ### Control de Acceso utilizando ESP32 y RFID usando módulo RDM6300 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post-blue)](https://www.linkedin.com/posts/ayman-h-q_python-esp32-rfid-activity-7365683248439476225-IULr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY4wacBnHF8CWSPbw8vk7NhhipzcEhA_FI)
 
 
