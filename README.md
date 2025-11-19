@@ -40,10 +40,10 @@ Además, tengo más de 6 años de experiencia en el sector de la seguridad en un
 - Uso de base de datos local de empleados usando diccionarios en Python
 - Registro de información de acceso (hora entrada y salida y datos empleado/a)
 
-### Vehículo Autónomo Evita-Paredes
+### Vehículo Evita-Paredes
 
-- Desarrollo de software en C para control de sensores ultrasónicos y motores DC.
-- Implementación de algoritmos PID para maniobras autónomas de evasión de obstáculos.
+- Uso de Simulink para control de sensores ultrasónicos y motores DC.
+- Implementación de algoritmos PID para maniobras con una trayectoria pre-definida, evasión de obstáculos etc.
 - Integración de encoders, señales PWM y sistemas embebidos, optimizando la precisión y la eficiencia del movimiento.
 
 ### Laboratorio de Electrónica de Potencia
